@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.medicalschedule.bo.User;
+import com.example.medicalschedule.Model.User;
 import com.example.medicalschedule.services.UserService;
 
 import lombok.AllArgsConstructor;

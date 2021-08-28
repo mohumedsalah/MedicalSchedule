@@ -4,7 +4,7 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.example.medicalschedule.bo.User;
+import com.example.medicalschedule.Model.User;
 import com.example.medicalschedule.repositories.UserRepository;
 
 import lombok.AllArgsConstructor;

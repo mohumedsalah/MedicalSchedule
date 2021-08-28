@@ -1,4 +1,4 @@
-package com.example.medicalschedule.bo;
+package com.example.medicalschedule.Model;
 
 import lombok.*;
 
